@@ -95,4 +95,6 @@ flutter:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/icon/icon.png"  # Ruta de tu imagen de icono
+  image_path: "assets/maps_icon.png"  # Ruta de tu imagen de icono
+assets:
+    - assets/

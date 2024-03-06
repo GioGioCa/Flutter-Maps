@@ -68,7 +68,9 @@ class _MapScreenState extends State<MapScreen> {
                 },
               ),
               MarkerLayer(markers: [
-                Marker(point: myPosition!, child: Image.asset('assets/man_icon.png')),//FlutterLogo()
+                Marker(point: myPosition!, child: Icon(
+                  Icons.account_circle,
+                  )),//FlutterLogo()Image.asset('assets/man_icon.png')
               ]),
             ],
       ),

@@ -97,4 +97,4 @@ flutter_icons:
   ios: true
   image_path: "assets/maps_icon.png"  # Ruta de tu imagen de icono
 assets:
-    - assets/
+    - assets/man_icon.png/

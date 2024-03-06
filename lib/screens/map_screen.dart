@@ -8,6 +8,7 @@ const MAPBOX_ACCESS_TOKEN =
 
 // final myPosition = LatLng(latitude, longitude);
 
+const _icon = 'assets/man_icon.png';
 class MapScreen extends StatefulWidget {
   const MapScreen({super.key});
 
@@ -70,7 +71,7 @@ class _MapScreenState extends State<MapScreen> {
                 },
               ),
               MarkerLayer(markers: [
-                Marker(point: myPosition!, child: const FlutterLogo()),
+                Marker(point: myPosition!, child: const Icon(_icon)),//FlutterLogo()
               ]),
             ],
       ),

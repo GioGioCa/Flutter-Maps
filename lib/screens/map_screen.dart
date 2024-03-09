@@ -4,7 +4,7 @@ import 'package:latlong2/latlong.dart';
 import 'package:geolocator/geolocator.dart';
 
 const MAPBOX_ACCESS_TOKEN =
-    'pk.eyJ1Ijoiem9kaWFyayIsImEiOiJjbHRkdDU4ZWQwNzB1MmpwN21hZGdiN25rIn0.vha1owhjdzEK5d4YwPT8iA';
+    'pk.mapbox_access_token_here';
 
 class MapScreen extends StatefulWidget {
   const MapScreen({super.key});

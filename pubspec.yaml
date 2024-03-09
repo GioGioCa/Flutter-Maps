@@ -92,9 +92,10 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-flutter_icons:
+flutter_launcher_icons:
   android: true
   ios: true
   image_path: "assets/maps_icon.png"  # Ruta de tu imagen de icono
 assets:
-    - assets/man_icon.png/
+    - assets/maps_icon.png
+    - assets/man_icon.png

@@ -1,7 +1,24 @@
 
 # map_flutter
 
-A new Flutter project.
+A new Flutter project, that fetch data from Mapbox API.
+
+# Mapbox
+You must register your account on Mapbox website to generate a key in order to use they service.
+
+## Screenshots
+<img width="400" alt="app" src="screenshoots/mapbox_access_token.jpeg">
+
+Once you get the key, you can use the funtionalities of the app!!!
+
+<img width="400" alt="app" src="screenshoots/map_mobile.jpeg">
+<img width="600" alt="app" src="screenshoots/map_web.jpeg">
+
+# Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+# Credits
+This application utilizes the Mapbox SDK for Flutter. Special thanks to the Mapbox team for providing the tools and resources to integrate interactive maps into Flutter applications.
 
 ## Getting Started
 
